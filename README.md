@@ -1,8 +1,7 @@
 # Otopark-Otomasyonu
 Basit bir otopark otomasyonudur.\
 C# ile yazılmıştır.\
-Microsoft SQL Server kullanılmıştır.\
-.sln Uzantılı dosyayı açıp kodları görebilirsiniz.
+Microsoft SQL Server kullanılmıştır.
 # Özellikleri 
 1- Araç Kaydı Oluşturma\
 2- Araç Marka Ekleme\
