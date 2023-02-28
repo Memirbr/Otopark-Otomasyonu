@@ -1,0 +1,34 @@
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Anasayfa.resources
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracyerleri.resources
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.cache
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.otoparkkayit.resources
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmmarka.resources
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmseri.resources
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracsil.resources
+C:\Users\memir\OneDrive\Desktop\Yeni klasör\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.liste.resources
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Anasayfa.resources
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracsil.resources
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracyerleri.resources
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmmarka.resources
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmseri.resources
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.liste.resources
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.otoparkkayit.resources
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.cache
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\memir\OneDrive\Desktop\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
